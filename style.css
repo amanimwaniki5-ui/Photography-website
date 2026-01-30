@@ -43,6 +43,15 @@ nav li a {
     background-color: aliceblue;
 }
 
+.One h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 .sportsimages {
     display: flex;
     flex-wrap: wrap;
@@ -64,6 +73,15 @@ nav li a {
     padding: 10px;
 }
 
+.Two h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 .natureimages {
     display: flex;
     flex-wrap: wrap;
@@ -76,6 +94,15 @@ nav li a {
     border-radius: 30px;
     margin: 10px;
     object-fit: cover;
+}
+
+.Three h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 .foodimages {
@@ -92,6 +119,15 @@ nav li a {
     object-fit: cover;
 }
 
+.Four h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 .carimages {
     display: flex;
     flex-wrap: wrap;
@@ -104,6 +140,15 @@ nav li a {
     border-radius: 30px;
     margin: 10px;
     object-fit: cover;
+}
+
+.Five h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 .expeditionimages {
@@ -134,7 +179,7 @@ nav li a {
     font-size: 35px;
 }
 
-footer{
+footer {
     background-color: rgb(82, 158, 142);
     margin: 5px;
     padding: 10px;
@@ -142,7 +187,7 @@ footer{
     text-align: center;
 }
 
-footer a{
+footer a {
     color: aliceblue;
     background-color: darkgrey;
     padding: 4px;
