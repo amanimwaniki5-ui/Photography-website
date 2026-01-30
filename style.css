@@ -1,0 +1,125 @@
+body {
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(134, 163, 85);
+    padding: 5px;
+    margin-top: 0;
+
+}
+
+header p {
+    font-size: x-large;
+    text-wrap: inherit;
+}
+
+.dropcap {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-left: 300px;
+    padding: 0;
+    display: flex;
+    background-color: aliceblue;
+    justify-content: right;
+    border-radius: 8px;
+}
+
+nav li a {
+    border-radius: 8px;
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: x-large;
+    background-color: aliceblue;
+}
+
+.sportsimages {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sportsimages img {
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    border-radius: 30px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+.sportsimages h3 {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 10px;
+    padding: 10px;
+}
+
+.natureimages {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.natureimages img {
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    border-radius: 30px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+.foodimages {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.foodimages img {
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    border-radius: 30px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+.carimages {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.carimages img {
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    border-radius: 30px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+.expeditionimages {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.expeditionimages img {
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    border-radius: 30px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+#Bio {
+    background-color: darkkhaki;
+}
