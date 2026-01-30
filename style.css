@@ -122,4 +122,31 @@ nav li a {
 
 #Bio {
     background-color: darkkhaki;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#Bio h2 {
+    text-align: center;
+    text-decoration: overline underline;
+    font-family: f;
+    font-weight: 100;
+    font-size: 35px;
+}
+
+footer{
+    background-color: rgb(82, 158, 142);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+footer a{
+    color: aliceblue;
+    background-color: darkgrey;
+    padding: 4px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 30px;
 }
