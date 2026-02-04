@@ -195,3 +195,21 @@ footer a {
     text-decoration: none;
     font-size: 30px;
 }
+#Contact h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+#Contact {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+#Contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
