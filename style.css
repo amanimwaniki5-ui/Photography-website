@@ -1,215 +1,214 @@
 body {
-    background-color: beige;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: beige;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header h1 {
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(134, 163, 85);
-    padding: 5px;
-    margin-top: 0;
-
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(134, 163, 85);
+  padding: 5px;
+  margin-top: 0;
 }
 
 header p {
-    font-size: x-large;
-    text-wrap: inherit;
+  font-size: x-large;
+  text-wrap: inherit;
 }
 
 .dropcap {
-    font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 nav ul {
-    list-style-type: none;
-    margin-left: 300px;
-    padding: 0;
-    display: flex;
-    background-color: aliceblue;
-    justify-content: right;
-    border-radius: 8px;
+  list-style-type: none;
+  margin-left: 300px;
+  padding: 0;
+  display: flex;
+  background-color: aliceblue;
+  justify-content: right;
+  border-radius: 8px;
 }
 
 nav li a {
-    border-radius: 8px;
-    display: block;
-    color: grey;
-    text-align: center;
-    padding: 10px;
-    text-decoration: none;
-    font-size: x-large;
-    background-color: aliceblue;
+  border-radius: 8px;
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: x-large;
+  background-color: aliceblue;
 }
 
 .One h3 {
-    text-align: center;
-    font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: darkgray;
-    padding: 5px;
-    border-radius: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: darkgray;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .sportsimages {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .sportsimages img {
-    max-width: 100%;
-    height: auto;
-    width: 300px;
-    border-radius: 30px;
-    margin: 10px;
-    object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  width: 300px;
+  border-radius: 30px;
+  margin: 10px;
+  object-fit: cover;
 }
 
 .sportsimages h3 {
-    display: flex;
-    flex-wrap: nowrap;
-    margin: 10px;
-    padding: 10px;
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 10px;
+  padding: 10px;
 }
 
 .Two h3 {
-    text-align: center;
-    font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: darkgray;
-    padding: 5px;
-    border-radius: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: darkgray;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .natureimages {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .natureimages img {
-    max-width: 100%;
-    height: auto;
-    width: 300px;
-    border-radius: 30px;
-    margin: 10px;
-    object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  width: 300px;
+  border-radius: 30px;
+  margin: 10px;
+  object-fit: cover;
 }
 
 .Three h3 {
-    text-align: center;
-    font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: darkgray;
-    padding: 5px;
-    border-radius: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: darkgray;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .foodimages {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .foodimages img {
-    max-width: 100%;
-    height: auto;
-    width: 300px;
-    border-radius: 30px;
-    margin: 10px;
-    object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  width: 300px;
+  border-radius: 30px;
+  margin: 10px;
+  object-fit: cover;
 }
 
 .Four h3 {
-    text-align: center;
-    font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: darkgray;
-    padding: 5px;
-    border-radius: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: darkgray;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .carimages {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .carimages img {
-    max-width: 100%;
-    height: auto;
-    width: 300px;
-    border-radius: 30px;
-    margin: 10px;
-    object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  width: 300px;
+  border-radius: 30px;
+  margin: 10px;
+  object-fit: cover;
 }
 
 .Five h3 {
-    text-align: center;
-    font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: darkgray;
-    padding: 5px;
-    border-radius: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: darkgray;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .expeditionimages {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .expeditionimages img {
-    max-width: 100%;
-    height: auto;
-    width: 300px;
-    border-radius: 30px;
-    margin: 10px;
-    object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  width: 300px;
+  border-radius: 30px;
+  margin: 10px;
+  object-fit: cover;
 }
 
 #Bio {
-    background-color: darkkhaki;
-    padding: 20px;
-    border-radius: 10px;
+  background-color: darkkhaki;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 #Bio h2 {
-    text-align: center;
-    text-decoration: overline underline;
-    font-family: f;
-    font-weight: 100;
-    font-size: 35px;
+  text-align: center;
+  text-decoration: overline underline;
+  font-family: f;
+  font-weight: 100;
+  font-size: 35px;
 }
 
 footer {
-    background-color: rgb(82, 158, 142);
-    margin: 5px;
-    padding: 10px;
-    border-radius: 10px;
-    text-align: center;
+  background-color: rgb(82, 158, 142);
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
 }
 
 footer a {
-    color: aliceblue;
-    background-color: darkgrey;
-    padding: 4px;
-    border-radius: 3px;
-    text-decoration: none;
-    font-size: 30px;
+  color: aliceblue;
+  background-color: darkgrey;
+  padding: 4px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 30px;
 }
 #Contact h3 {
-    text-align: center;
-    font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: darkgray;
-    padding: 5px;
-    border-radius: 5px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: darkgray;
+  padding: 5px;
+  border-radius: 5px;
 }
 #Contact {
-    background-color: aliceblue;
-    padding: 20px;
-    border-radius: 10px;
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 10px;
 }
 #Contact form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
